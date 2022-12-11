@@ -120,9 +120,13 @@ p {
 }
 
 .contact-heading {
-  margin-top: 60px;
+  margin-top: 80px;
+  font-family: "Poppins";
+  color: grey;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 .icons {
-  margin-top: 60px;
+  margin-top: 20px;
 }
